@@ -1,0 +1,6 @@
+C:\Users\Ahmed EL-Halawany\Desktop\Priority_Queue\Priority_Queue\bin\Debug\Priority_Queue.exe.config
+C:\Users\Ahmed EL-Halawany\Desktop\Priority_Queue\Priority_Queue\bin\Debug\Priority_Queue.exe
+C:\Users\Ahmed EL-Halawany\Desktop\Priority_Queue\Priority_Queue\bin\Debug\Priority_Queue.pdb
+C:\Users\Ahmed EL-Halawany\Desktop\Priority_Queue\Priority_Queue\obj\Debug\Priority_Queue.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed EL-Halawany\Desktop\Priority_Queue\Priority_Queue\obj\Debug\Priority_Queue.exe
+C:\Users\Ahmed EL-Halawany\Desktop\Priority_Queue\Priority_Queue\obj\Debug\Priority_Queue.pdb
